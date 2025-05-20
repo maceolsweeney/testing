@@ -1,9 +1,68 @@
-This is an assignment that I am submitting for AP Computer Science Principles. 
+Dark Side of the Moon
+
+
+                                      '$&
+                                      @R$k
+                                    '$!!!M&
+                                    @?~~~!$k
+                                  '9!!~ ~~!MX
+                                  @X~~   `~!$k
+                                 9!!      ~~!$X
+                                dR!~       `~!$>
+                               XR!~         `~!$k:
+                              tR!~        ::~~!!MMXXHHHH!!<:.
+                             <$!xxiXX!!!~~~~~~~!!MMMMMMMMMMMMMMMXXXXx::
+                        .:X@N$$$RMMX!!!!~~~~~~~~!!MMMM@@MMMMMMMMMMMMXMSMMtHHHX!
+                  :xiM#"~  <$!~  `~~~!~~~~~~~~~~~!!MX!!!!!??#RR888MMMMMMMMMMMHH
+           ..XH@!~`       X$!~                 '~~~!MX!!!!!!!!!!!!?MMR@@$MMMMMM
+     :xiM#"~             <$!~                     '~!MM??MMX!!!!!!!!!!!!!!??#R$
+XH@M!``                 :$!!                        ~!R:   `~!MM!XH!!!!!!!!!!!!
+                       <$!~                         `!!M:        `~"??HHX!!!!!!
+                      :$!~                           `!!R:              `!!MMMH
+                     '$!~                             `~!8:                   ~
+                    :$!!                               ~!!N:
+                   '$!~                                 `!!N:
+                  .$!!~                                  ~~!&>
+                 '@!!~                                    ~!MN
+                .$!!~                                     ~~!M&>
+               :@$MHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!H$N
+                 PINK FLOYD:  DARK SIDE OF THE MOON  BY CHAT 95
+ ________________________________________________________
+
+Napoleon
+
+         ________
+        /        \
+     __/       (o)\__
+    /     ______\\   \
+    |____/__  __\____|
+       [  --~~--  ]
+        |(  L   )|
+  ___----\  __  /----___
+ /   |  < \____/ >   |   \
+/    |   < \--/ >    |    \
+||||||    \ \/ /     ||||||
+|          \  /   o       |
+|     |     \/   === |    |
+|     |      |o  ||| |    |
+|     \______|   +#* |    |
+|            |o      |    |
+ \           |      /     /
+ |\__________|o    /     /
+ |           |    /     /
 
 
 
-Lorem Ipsum Soler Amet. 
+Cowsay
+
+ _____
+< Moo >
+ -----
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 
 
-Text for second commit goes here. 
